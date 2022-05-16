@@ -1,3 +1,4 @@
+GREEDY ALGORITHM
 from collections import defaultdict
 class Graph: #Class to represent a graph
 def __init__(self, vertices): #Constructor to initialise variables
