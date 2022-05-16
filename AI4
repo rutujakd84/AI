@@ -1,3 +1,4 @@
+N QUEENS
 N = 4
 def printSolution(board): #Function to print end solution
 for i in range(N):
