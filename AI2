@@ -1,3 +1,4 @@
+A STAR
 from collections import deque
 class Graph:
 def __init__(self, adjac_lis): #Constructer to initialise the list
